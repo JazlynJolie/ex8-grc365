@@ -4,10 +4,12 @@
 }
 
 body {
-  background-color: #FFFEFC;
-  color: #30201E;
+  background-color: #faf3eb;
+  color: #30201e;
   font-family: Garamond, serif;
   font-size: 16px;
+}
+
 }
 
 h1, h2 {
@@ -31,13 +33,13 @@ a:link {
   color: #244524;
 }
 a:visited {
-  color: #ED3B80;
+  color: #ed3b80;
 }
 a:hover {
-  color: #E37F96;
+  color: #e37f96;
 }
 a:active {
-  color: #A6C95D;
+  color: #a6c95d;
 }
 
 ul, ol {
