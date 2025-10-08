@@ -3,9 +3,9 @@
   margin: 0;
 }
 
-html {
-  background-color: FFFEFC;
-  color: 30201E;
+body {
+  background-color: #FFFEFC;
+  color: #30201E;
   font-family: Garamond, serif;
   font-size: 16px;
 }
@@ -20,7 +20,7 @@ h1, h2 {
 
 .time {
   font-weight: bold;
-  color: 244524;
+  color: #244524;
 }
 
 ul li {
@@ -28,16 +28,16 @@ ul li {
 }
 
 a:link {
-  color: 244524;
+  color: #244524;
 }
 a:visited {
-  color: ED3B80;
+  color: #ED3B80;
 }
 a:hover {
-  color: E37F96;
+  color: #E37F96;
 }
 a:active {
-  color: A6C95D;
+  color: #A6C95D;
 }
 
 ul, ol {
